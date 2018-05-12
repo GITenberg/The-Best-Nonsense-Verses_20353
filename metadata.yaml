@@ -1,0 +1,32 @@
+_repo: The-Best-Nonsense-Verses_20353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Bacon, Josephine Daskam
+    aliases:
+    - Daskam, Josephine Dodge
+    - Lovell, Ingraham
+    - Bacon, Josephine Dodge Daskam
+    - Bacon, Selden, Mrs.
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '9246'
+    url: http://www.gutenberg.org/2009/agents/9246
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
+description: ''
+gutenberg_issued: '2007-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nonsense verses'
+- !lcc 'PN'
+title: The Best Nonsense Verses
+url: http://www.gutenberg.org/ebooks/20353
